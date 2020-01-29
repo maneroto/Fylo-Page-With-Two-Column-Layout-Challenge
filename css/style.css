@@ -43,7 +43,6 @@
 }
 body
 {
-    scroll-behavior: smooth;
     padding-top: 15vmin;
 	font-size: var(--text-size);
 	color: var(--color-primary);
